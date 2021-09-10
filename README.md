@@ -6,4 +6,4 @@
 
 >I like anime
 
->I am human
+>I am homo sapien
