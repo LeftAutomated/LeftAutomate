@@ -1,6 +1,5 @@
 <body>
   <h1 align="center">Welcome</h1>
-  <br>
   <div align="center">
       <img src="/assets/yourname.gif" width="600" />
   </div>
@@ -8,9 +7,9 @@
   <div>
     <img src="/assets/levi-beast.gif" align="right" width="256" height="182 "/>
     <ul>
-      <li>Name: Bryant Le</li>
-      <li>Age: 18</li>
-      <li>Hobbies:
+      <li><b>Name:</b> Bryant Le</li>
+      <li><b>Age:</b> 18</li>
+      <li><b>Hobbies:</b>
         <ul>
           <li>Playing games</li>
           <li>Binging anime</li> 
@@ -49,11 +48,11 @@
   <div>
     <img src="/assets/002.gif" align="right" width="256" height="182"/>
     <ul>
-      <li>Discord: LeftAutomated#5852</li>
-      <li>LinkedIn: <a href="https://www.linkedin.com/in/bnle/">bnle</a></li>
-      <li>Devpost: <a href="https://devpost.com/bnle">bnle</a></li>
-      <li>Instagram: <a href="https://www.instagram.com/bnleft/">bnleft</a></li>
-      <li>Gmail: <a href="mailto:bryantle2021@gmail.com">bryantle2021@gmail.com</a></li>
+      <li><b>Discord:</b> LeftAutomated#5852</li>
+      <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/bnle/">bnle</a></li>
+      <li><b>Devpost:</b> <a href="https://devpost.com/bnle">bnle</a></li>
+      <li><b>Instagram:</b> <a href="https://www.instagram.com/bnleft/">bnleft</a></li>
+      <li><b>Gmail:</b> <a href="mailto:bryantle2021@gmail.com">bryantle2021@gmail.com</a></li>
     </ul>
   </div>
   <br>
