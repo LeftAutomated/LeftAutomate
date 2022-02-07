@@ -65,6 +65,6 @@
   </div>
   <h1 align="center">Farewell</h1>
   <div align="center">
-      <img src="/assets/shouko.gif" width="1000" height="600"/>
+      <img src="/assets/shouko.gif" width="1000" height="500"/>
   </div>
 <body>
