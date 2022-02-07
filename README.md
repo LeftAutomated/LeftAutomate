@@ -1,7 +1,7 @@
 <body>
   <h1 align="center">Welcome</h1>
   <br>
-    <img src"" align="center"/>
+    <img src"./assets/yourname.gif" align="center"/>
   <br>
   <div>
     <div>
