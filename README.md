@@ -19,26 +19,50 @@
       </li>
     </ul>
   </div>
+  <br>
   <h2 align="center">School</h2>
   <div>
-    <img src="/assets/pet.JPG" align="left" width="256" height="182"/>
+    <img src="/assets/pet.JPG" align="right" width="256" height="182"/>
+    <ul>
+      <li>Freshman @ University of Houston</li>
+      <li>Code[Coogs] Wizard</li>
+      <li>Code[Coogs] Web Minion</li>
+      <li>CougarCS Tutor</li>
+      <li>CougarCS Info Security Team Member</li>
+    </ul>
   </div>
-  <h2 align="center">Skills</h2>
+  <br>
+  <h2 align="center">Technical Skills</h2>
   <div>
     <img src="/assets/deathnote.gif" align="right" width="256" height="182"/>
+    <ul>
+      <li>Javascript</li>
+      <li>C++</li>
+      <li>Python</li>
+      <li>Java</li>
+      <li>Linux</li>
+      <li>AWS (<a href="https://www.credly.com/badges/fae3d119-d6a5-42cc-9691-ccc87406958a/public_url">Certified Cloud Practitioner</a>)</li>
+    </ul>
   </div>
+  <br>
   <h2 align="center">Contact</h2>
   <div>
     <img src="/assets/002.gif" align="right" width="256" height="182"/>
+    <ul>
+      <li>Discord: LeftAutomated#5852</li>
+      <li>LinkedIn: <a href="https://www.linkedin.com/in/bnle/">bnle</a></li>
+      <li>Devpost: <a href="https://devpost.com/bnle">bnle</a></li>
+      <li>Instagram: <a href="https://www.instagram.com/bnleft/">bnleft</a></li>
+      <li>Gmail: <a href="mailto:bryantle2021@gmail.com">bryantle2021@gmail.com</a></li>
+    </ul>
   </div>
-  <h2 align="center">Contributions</h2>
-  <div>
+  <br>
+  <h2 align="center">Contributions</h2> 
+  <div> 
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+      <img  src="https://github-readme-stats.vercel.app/api?username=LeftAutomated&&show_icons=true&theme=radical"/>
+    </a>
     <img src="/assets/steins-gate.gif" align="right" width="256" height="182"/>
-    <div align="left">
-      <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-        <img  src="https://github-readme-stats.vercel.app/api?username=LeftAutomated&&show_icons=true&theme=radical"/>
-      </a>
-    </div>
   </div>
   <h1 align="center">Farewell</h1>
   <div align="center">
