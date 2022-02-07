@@ -1,7 +1,7 @@
 <body>
   <h1 align="center">Welcome</h1>
   <div align="center">
-      <img src="/assets/yourname.gif" width="600" />
+      <img src="/assets/yourname.gif" width="1000" height="400"/>
   </div>
   <h2 align="center">About Me</h2>
   <div>
@@ -65,6 +65,6 @@
   </div>
   <h1 align="center">Farewell</h1>
   <div align="center">
-      <img src="/assets/shouko.gif" width="600" />
+      <img src="/assets/shouko.gif" width="1000" height="600"/>
   </div>
 <body>
