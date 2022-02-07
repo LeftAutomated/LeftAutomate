@@ -6,7 +6,10 @@
 <body>
   <h1 align="center">Welcome</h1>
   <br>
+  
   <div align="center">
-    <img  src="https://github-readme-stats.vercel.app/api?username=LeftAutomated&&show_icons=true&theme=radical"/>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img  src="https://github-readme-stats.vercel.app/api?username=LeftAutomated&&show_icons=true&theme=radical"/>
+    </a>
   </div>
 <body>
