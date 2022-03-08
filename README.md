@@ -24,8 +24,9 @@
     <img src="/assets/pet.JPG" align="right" width="256" height="182"/>
     <ul>
       <li>Freshman @ University of Houston</li>
-      <li>Code[Coogs] Wizard</li>
-      <li>Code[Coogs] Web Minion</li>
+      <li>CougarCS Web Development Team Lead</li>
+      <li>Code[Coogs] Bot Wizard</li>
+      <li>Code[Coogs] Web Wizard</li>
       <li>CougarCS Tutor</li>
       <li>CougarCS Info Security Team Member</li>
     </ul>
