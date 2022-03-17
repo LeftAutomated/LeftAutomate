@@ -38,7 +38,7 @@
     <ul>
       <li>Discord Bot: (<a href="https://github.com/LeftAutomated/CoCo">CoCo</a>) </li>
       <li>TAMUhack: (<a href="https://github.com/LeftAutomated/NFTeach">NFTeach</a>) (<a href="https://devpost.com/software/nf-teach-engaging-video-conferencing">Devpost</a>)</li>
-      <li>hackMisso: (<a href="https://github.com/LeftAutomated/hackMISSO2021">NFTeach</a>) (<a href="https://devpost.com/software/avas">Devpost</a>)</li>
+      <li>hackMisso: (<a href="https://github.com/LeftAutomated/hackMISSO2021">AVAS</a>) (<a href="https://devpost.com/software/avas">Devpost</a>)</li>
       <li>CodeRED: (<a href="https://github.com/LeftAutomated/CodeRED-Artemis">Car Accident Tracker</a>) (<a href="https://devpost.com/software/car-accident-tracker">Devpost</a>)</li>
     </ul>
   </div>
