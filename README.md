@@ -1,5 +1,4 @@
 <body>
-  <h1 align="center">Welcome</h1>
   <h2 align="center">About Me</h2>
   <div>
     <ul>
@@ -29,7 +28,9 @@
   <h2 align="center">Projects</h2>
   <div>
     <ul>
-      <li>Discord Bot: (<a href="https://github.com/LeftAutomated/CoCo">CoCo</a>) </li>
+      <li>Project 1: (<a href="https://github.com/LeftAutomated/CoCo">CoCo</a>) </li>
+      <li>Project 2: (<a href="https://github.com/CodeCoogs/team_projects2022/tree/main/gitgud">Robotic Arm</a>) </li>
+      <li>Project 3: (<a href="https://github.com/CodeCoogs/website">Code[Coogs] Website</a>) </li>
       <li>TAMUhack: (<a href="https://github.com/LeftAutomated/NFTeach">NFTeach</a>) (<a href="https://devpost.com/software/nf-teach-engaging-video-conferencing">Devpost</a>)</li>
       <li>HackCWRU: (<a href="https://github.com/LeftAutomated/HackCWRU-2022">SenPy</a>) (<a href="https://devpost.com/software/senpy">Devpost</a>)</li>
       <li>hackMisso: (<a href="https://github.com/LeftAutomated/hackMISSO2021">AVAS</a>) (<a href="https://devpost.com/software/avas">Devpost</a>)</li>
@@ -66,7 +67,6 @@
       <img  src="https://github-readme-stats.vercel.app/api?username=LeftAutomated&&show_icons=true&theme=radical"/>
     </a>
   </div>
-  <h1 align="center">Farewell</h1>
   <div align="center">
   </div>
 <body>
