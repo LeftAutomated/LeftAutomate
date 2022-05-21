@@ -17,9 +17,8 @@
   <div>
     <ul>
       <li>Freshman @ University of Houston</li>
+      <li>Code[Coogs] Wizard</li>
       <li>CougarCS Web Development Team Lead</li>
-      <li>Code[Coogs] Bot Wizard</li>
-      <li>Code[Coogs] Web Wizard</li>
       <li>CougarCS Tutor</li>
       <li>CougarCS Info Security Team Member</li>
     </ul>
