@@ -1,5 +1,5 @@
 <body>
-  <h2 align="center">About Me</h2>
+  <h2>About Me</h2>
   <div>
     <ul>
       <li><b>Name:</b> Bryant Le</li>
@@ -13,18 +13,17 @@
     </ul>
   </div>
   <br>
-  <h2 align="center">School</h2>
+  <h2>School</h2>
   <div>
     <ul>
-      <li>Freshman @ University of Houston</li>
+      <li>UH '24</li>
       <li>Code[Coogs] Wizard</li>
-      <li>CougarCS Web Development Team Lead</li>
+      <li>CougarCS Web Master</li>
       <li>CougarCS Tutor</li>
-      <li>CougarCS Info Security Team Member</li>
     </ul>
   </div>
   <br>
-  <h2 align="center">Projects</h2>
+  <h2>Projects</h2>
   <div>
     <ul>
       <li>Project 1: (<a href="https://github.com/LeftAutomated/CoCo">CoCo</a>) </li>
@@ -37,7 +36,7 @@
     </ul>
   </div>
   <br>
-  <h2 align="center">Technical Skills</h2>
+  <h2>Technical Skills</h2>
   <div>
     <ul>
       <li>Javascript</li>
@@ -49,7 +48,7 @@
     </ul>
   </div>
   <br>
-  <h2 align="center">Contact</h2>
+  <h2>Contact</h2>
   <div>
     <ul>
       <li><b>Discord:</b> LeftAutomated#5852</li>
@@ -60,7 +59,7 @@
     </ul>
   </div>
   <br>
-  <h2 align="center">Contributions</h2> 
+  <h2>Contributions</h2> 
   <div> 
     <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
       <img  src="https://github-readme-stats.vercel.app/api?username=LeftAutomated&&show_icons=true&theme=radical"/>
