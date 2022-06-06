@@ -6,8 +6,9 @@
       <li><b>Age:</b> 18</li>
       <li><b>Hobbies:</b>
         <ul>
-          <li>Playing games</li>
+          <li>Youtube</li>
           <li>Doing CS stuff</li>
+          <li>Weight Lifting</li>
         </ul>
       </li>
     </ul>
