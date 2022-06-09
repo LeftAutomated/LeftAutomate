@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/bnle" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="https://discord.com/" target="_blank">
+  <a href="https://discord.gg/tApPc7vPRQ" target="_blank">
     <img src="https://img.shields.io/badge/Discord-blue?style=flat-square&logo=discord&logoColor=white" alt="Discord Badge">
   </a>
   <a href="http://www.bnle.me/" target="_blank">
