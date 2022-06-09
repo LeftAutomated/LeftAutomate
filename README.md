@@ -53,20 +53,25 @@ Outside of computer science, I love to
 
 ---
 
-### 🛠 &nbsp;Languages and Tools
 ```javascript
 const languages = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Fastify", "Express"],
-        },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
-    }
+    array: ["R"],
+    cli: ["Windows Powershell", "sh"],
+    fuctional: ["JavaScript", "Typescript"],
+    general: ["C++", "Rust"],
+    interpreted: ["Python"]
+    lowLevel: ["MIPS Assembly"],
+    markup: ["HTML", "XML"],
+    oop: ["Java"]
+    query: ["SQL"],
+    style: ["CSS"],
 };
+
+const tools = {
+    databases: ["MongoDB", "MySql", "sqlite", "DynamoDB"],
+    devOps: ["AWS", "Google Cloud Platform", "Docker"],
+    editor: ["Visual Studio Code", "Vim"],
+    libraries: ["React", "Next.js"],
+    operatingSystems: ["Windows", "Gentoo Linux", "Kali Linux"]
+};
+```
