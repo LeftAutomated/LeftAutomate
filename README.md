@@ -59,12 +59,12 @@ const languages = {
     cli: ["Windows Powershell", "sh"],
     fuctional: ["JavaScript", "Typescript"],
     general: ["C++", "Rust"],
-    interpreted: ["Python"]
+    interpreted: ["Python"],
     lowLevel: ["MIPS Assembly"],
     markup: ["HTML", "XML"],
-    oop: ["Java"]
+    oop: ["Java"],
     query: ["SQL"],
-    style: ["CSS"],
+    style: ["CSS"]
 };
 
 const tools = {
