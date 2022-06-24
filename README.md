@@ -32,7 +32,8 @@ I am an 18 year old aspiring software engineer. [UH](https://uh.edu/)' 24
 - 🧙 **Wizard** at [Code[Coogs]](https://github.com/CodeCoogs)
 - 🕸️ **Web Master** at [CougarCS](https://github.com/CougarCS)
 - 🔴 **Developer** at [UH CodeRED](https://github.com/CodeRED-UH)
-- 🐦 **SWE Intern** at [Seatgull](https://github.com/seatgull)
+- 🐦 **SWE** at [Seatgull](https://github.com/seatgull)
+- 🐝 **SWE Intern** at [Buzly](https://github.com/buzly)
 - ⚙️ **Backend Engineer** at [Cougar-Connect](https://github.com/Cougar-Connect)
 
 Outside of computer science, I love to
