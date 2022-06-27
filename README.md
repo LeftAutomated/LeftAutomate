@@ -6,7 +6,7 @@
   <a href="https://discord.gg/tApPc7vPRQ" target="_blank">
     <img src="https://img.shields.io/badge/Discord-blue?style=flat-square&logo=discord&logoColor=white" alt="Discord Badge">
   </a>
-  <a href="http://www.bnle.me/" target="_blank">
+  <a href="https://bnle.me/" target="_blank">
     <img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website Badge">
   </a>
   <a href="mailto:bryantle2021@gmail.com" target="_blank">
