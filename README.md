@@ -59,7 +59,7 @@ const languages = {
     array: ["R"],
     cli: ["Windows Powershell", "sh"],
     fuctional: ["JavaScript", "Typescript"],
-    general: ["C++", "Rust"],
+    backend: ["C++", "Rust", "Go"],
     interpreted: ["Python"],
     lowLevel: ["MIPS Assembly"],
     markup: ["HTML", "XML"],
@@ -69,10 +69,10 @@ const languages = {
 };
 
 const tools = {
-    databases: ["MongoDB", "MySql", "sqlite", "DynamoDB"],
+    databases: ["MongoDB", "MySql", "sqlite", "DynamoDB", "PostgreSQL"],
     devOps: ["AWS", "Google Cloud Platform", "Docker"],
     editor: ["Visual Studio Code", "Vim"],
-    libraries: ["React", "Next.js"],
+    libraries: ["React"],
     operatingSystems: ["Windows", "Gentoo Linux", "Kali Linux"]
 };
 ```
