@@ -24,7 +24,7 @@
 
 ### :man_technologist: &nbsp;About Me
 
-I am an 19 year old aspiring software engineer. [UH](https://uh.edu/)' 24
+I am a 19 year old aspiring software engineer. [UH](https://uh.edu/)' 24
 
 - 🧙 **Wizard** at [Code[Coogs]](https://github.com/codecoogs)
 - 🕸️ **Web Master** at [CougarCS](https://github.com/CougarCS)
