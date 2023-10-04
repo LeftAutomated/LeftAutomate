@@ -22,16 +22,6 @@
   </a>
 </p>
 
-### :man_technologist: &nbsp;About Me
-
-I am a 19 year old aspiring software engineer. [UH](https://uh.edu/)' 24
-
-- 🧙 **Wizard** at [Code[Coogs]](https://github.com/codecoogs)
-- 🕸️ **Web Master** at [CougarCS](https://github.com/CougarCS)
-- 🔴 **Developer** at [UH CodeRED](https://github.com/CodeRED-UH)
-
-<br>
-
 <div align="center">
   <img style="vertical-align:middle" src="https://media.giphy.com/media/FWAcpJsFT9mvrv0e7a/giphy.gif" width="30"> 
   <span>My goal is to build an army of robots to take over the world.</span> 
